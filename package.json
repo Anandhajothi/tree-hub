@@ -1,0 +1,17 @@
+{
+  "name": "tree-hub",
+  "version": "1.8.0",
+  "description": "",
+  "bin": {
+    "tree-hub": "tree.js"
+  },
+  "author": "Anandhajothi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anandhajothi/tree-hub.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
